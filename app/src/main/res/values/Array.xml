@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="divisiones">
+        <item>FINANZAS</item>
+        <item>PRODUCCION</item>
+        <item>VENTAS</item>
+        <item>RECURSOS HUMANOS</item>
+        <item>MARKETING</item>
+    </string-array>
+
+</resources>
